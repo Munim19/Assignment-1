@@ -1,0 +1,102 @@
+body{
+    font-family: 'Bitter', serif;
+font-family: 'Lobster', cursive;
+}
+.center{
+    color: red;
+    font-size: 50px;
+    margin-bottom: -10px;
+   
+}
+    .font{
+        font-size: 50px;
+        margin-bottom: -20px;
+      
+
+    }
+    .up{
+        font-size: 20px;
+    }
+.flex{
+    display: flex;
+}
+.flex img{
+    padding-right: 80px
+   
+    
+}
+.new{
+    padding-left: 80px;
+    padding-top: 120px;
+    text-align: justify;
+   
+
+}
+.button{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bolder;
+    background: linear-gradient(tomato, yellow);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+}
+span{
+    color: teal;
+}
+.add{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+.height{
+    height: 140px;
+}
+.box{
+    display: flex;
+}
+.one{
+   box-shadow: 5px 7px 40px tomato;
+   height: 300px;
+   width: 20%;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding-left: 2%;
+   padding-right: 2%;
+   padding-bottom: 20px;
+   padding-top: 20px;
+   background-color: tomato;
+   border-radius: 20px;
+}
+.second{
+    box-shadow: 5px 7px 40px tomato;
+   height: 300px;
+   width: 20%;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding-left: 2%;
+   padding-right: 2%;
+   padding-bottom: 20px;
+   padding-top: 20px;
+   background-color: yellow;
+   border-radius: 20px;
+
+}
+.third{
+    box-shadow: 5px 7px 40px tomato;
+   height: 300px;
+   width: 20%;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding-left: 2%;
+   padding-right: 2%;
+   padding-bottom: 20px;
+   padding-top: 20px;
+   background-color: brown;
+   border-radius: 20px;
+}
+.white{
+    color: rgb(83, 5, 146);
+}
