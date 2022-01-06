@@ -70,7 +70,7 @@ span{
    padding-right: 2%;
    padding-bottom: 20px;
    padding-top: 20px;
-   background-color: tomato;
+   background-color: peachpuff;
    border-radius: 20px;
 }
 .second{
@@ -83,7 +83,7 @@ span{
    padding-right: 2%;
    padding-bottom: 20px;
    padding-top: 20px;
-   background-color: yellow;
+   background-color: rgb(253, 253, 20);
    border-radius: 20px;
 
 }
@@ -97,7 +97,7 @@ span{
    padding-right: 2%;
    padding-bottom: 20px;
    padding-top: 20px;
-   background-color: brown;
+   background-color: rgb(247, 15, 15);
    border-radius: 20px;
 }
 .white{
@@ -149,13 +149,13 @@ span{
       }
       .half{
           display: block;
-          margin-left: auto;
-          margin-right: auto;
-          width: 25%;
-          padding-top: -70%;
-          
+          text-align: center;
       }
       .line{
           text-align: center;
           margin-bottom: 5%;
+      }
+      .back{
+          border-left: 5px solid tomato;
+          padding-left: 1%;
       }
