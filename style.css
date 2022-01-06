@@ -29,6 +29,7 @@ font-family: 'Lobster', cursive;
     padding-left: 80px;
     padding-top: 120px;
     text-align: justify;
+    padding-right: 10%;
    
 
 }
@@ -50,12 +51,14 @@ span{
     color: blue;
     text-align: center;
     font-size: 50px;
+    padding-bottom: 40px;
 }
 .height{
     height: 140px;
 }
 .box{
     display: flex;
+    margin-bottom: 7%;
 }
 .one{
    box-shadow: 5px 7px 40px tomato;
@@ -100,3 +103,59 @@ span{
 .white{
     color: rgb(83, 5, 146);
 }
+.size{
+    padding-left: 10%;
+}
+.display{
+    display: flex;
+    margin-bottom: 3%;
+   
+}
+.display img{
+    padding-left: 30%;
+
+}
+.left{
+    padding-left: 15%;
+    padding-right: 10%;
+}
+    .img {
+        padding-right: 20%;
+        
+      }
+      .ad{
+        font-size: 40px;
+        margin-bottom: -10px;
+      }
+      .upper{
+          padding-top: 5px;
+      }
+      footer{
+          background-color: black;
+          padding-bottom: 2%;
+          text-align: center;
+          color: tomato;
+          
+      }
+      .top{
+         
+          padding-top: 50px;
+          font-size: 30px;
+         
+      }
+      #new-color{
+          color: white;
+          font-size: 20px ;
+      }
+      .half{
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 25%;
+          padding-top: -70%;
+          
+      }
+      .line{
+          text-align: center;
+          margin-bottom: 5%;
+      }
